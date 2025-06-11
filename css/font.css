@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'gilroy','Roboto', sans-serif;
+    src: url(../Fonts/gilroy/Gilroy-Black.ttf) format('Gilroy-Black');
+}
+
+@font-face {
+    font-family: 'gilroylight','Roboto', sans-serif;
+    src: url(/Fonts/gilroy/Gilroy-Light.ttf) format('Gilroy-Light');
+}
+
+@font-face {
+    font-family: 'gilroybold','Roboto', sans-serif;
+    src: url(/Fonts/gilroy/Gilroy-Bold.ttf) format('Gilroy-Bold');
+}
+
+@font-face{
+    font-family: 'gilroylightitalic','Roboto', sans-serif;
+    src: url(/Fonts/gilroy/Gilroy-LightItalic.ttf) format('Gilroy-LightItalic');
+}
+
+@font-face {
+    font-family: 'gilroymediumitalic','Roboto', sans-serif;
+    src: url(/Fonts/gilroy/Gilroy-MediumItalic.ttf) format('Gilroy-MediumItalic');
+}
