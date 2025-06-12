@@ -22,3 +22,13 @@
     font-family: 'gilroymediumitalic','Roboto', sans-serif;
     src: url(/Fonts/gilroy/Gilroy-MediumItalic.ttf) format('Gilroy-MediumItalic');
 }
+
+@font-face {
+    font-family: 'gilroythin','Roboto', sans-serif;
+    src: url(/Fonts/gilroy/Gilroy-Thin.ttf) format('Gilroy-Semibold');
+}
+
+@font-face {
+    font-family: 'gilroythinitalic','Roboto', sans-serif;
+    src: url(/Fonts/gilroy/Gilroy-ThinItalic.ttf) format('Gilroy-ThinItalic');
+}

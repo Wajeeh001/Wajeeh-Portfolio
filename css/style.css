@@ -1,9 +1,64 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-body{
-    font-family: 'gilroy', 'Roboto', sans-serif;
+html {
+  max-width: 1400px;
+  margin: 0px auto;
+  font-family: "gilroy", "Roboto", sans-serif;
+}
+body {
+  background-color: #ffc107;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+li,
+a {
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Header */
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  padding: 20px 50px;
+  margin: 10px;
+  border-radius: 20px;
+}
+
+header > nav > ul > li {
+  list-style: none;
+  text-transform: uppercase;
+}
+
+header > nav > ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.logo>a>h1{
+    font-weight: 100;
+}
+
+.logo>a>h1>span{
+    font-weight: 600;
 }
